@@ -1,2 +1,5 @@
 # Actividad-Integradora-Grupo_Blanco
-La actividad integrado del grupo blanco
+Integrantes:
+* Carlos Acosta
+* Bautista Gallardo
+* Juan Bigeón
